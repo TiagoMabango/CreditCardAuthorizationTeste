@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreditCardAuthorization.Api", "CreditCardAuthorization.Api\CreditCardAuthorization.Api.csproj", "{A0D359C6-D9B1-4655-9F8A-CDE03028C912}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CreditCardAuthorization.Tests", "CreditCardAuthorization.Tests\CreditCardAuthorization.Tests.csproj", "{40BFBA6D-D40D-4B06-82D3-75887E5B8100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0D359C6-D9B1-4655-9F8A-CDE03028C912}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0D359C6-D9B1-4655-9F8A-CDE03028C912}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0D359C6-D9B1-4655-9F8A-CDE03028C912}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0D359C6-D9B1-4655-9F8A-CDE03028C912}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40BFBA6D-D40D-4B06-82D3-75887E5B8100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40BFBA6D-D40D-4B06-82D3-75887E5B8100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40BFBA6D-D40D-4B06-82D3-75887E5B8100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40BFBA6D-D40D-4B06-82D3-75887E5B8100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED7E9276-99BE-4442-9AA3-AEE0B2A48186}
+	EndGlobalSection
+EndGlobal
